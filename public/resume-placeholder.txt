@@ -1,0 +1,1 @@
+Add your actual resume as public/resume.pdf. The Download Resume buttons will then work automatically.
